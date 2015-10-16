@@ -29,5 +29,4 @@ See [Compile and Build Program AB](https://code.google.com/p/program-ab/wiki/Com
 
 See [ExtendingAIML](https://code.google.com/p/program-ab/wiki/ExtendingAIML) to understand how to define your own custom AIML tags.
 
-#This project is automatically exported from code.google.com/p/program-ab
-Contact us at info@alicebot.org 
+
